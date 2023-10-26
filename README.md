@@ -1,2 +1,2 @@
 # Inventory-Cost-Optimization
-Inventory Storage Cost Reduction by analyzing the Inventory and finished goods in the warehouse.
+Inventory Storage Cost Reduction by analyzing the Inventory of Raw materials and Finished goods in the warehouse.
